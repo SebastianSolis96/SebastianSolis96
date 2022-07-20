@@ -1,6 +1,5 @@
 <div align="center">
   <h1 align="center">¡Hola <img width="35" src="https://github.com/SebastianSolis96/SebastianSolis96/blob/main/img/hi_gif.gif">, soy Sebastian!</h1>
-  <h4 align="center">Frontend developer con curiosidad por el Backend</h4>
 </div>
 
 <div align="center">
@@ -9,11 +8,25 @@
   </a>
 </div>
 
+<div align="center">
+  <h4 align="justify">
+    Soy un profesional con experiencia en el desarrollo Frontend de aplicaciones web, con conocimientos en Backend, lo que me ha permitido tener una mayor visión de las tecnologías, buscando siempre experiencias nuevas y positivas que me permitan un crecimiento profesional para llegar a ser un desarrollador Full Stack.
+  </h4>
+  
+  <h4 align="justify">  
+    A lo largo de mi formación académica y profesional he demostrado gran entusiasmo por la tecnología, el diseño y el aprendizaje autodidacta.
+  </h4>
+  
+  <h4 align="justify">
+    Soy una persona competitiva, proactiva y altamente organizada, capaz de adaptarse a los cambios y trabajar en equipo, siempre estoy presto a ayudar ya que tengo presente que enseñar es la mejor forma de aprender.
+  </h4>
+</div>
+
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ Contáctame</summary>
 <div>
   <samp>
-    <h2 align="center">😎 you can reach me by:</h2>
+    <h2 align="center">Puedes contactarme en:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
@@ -43,27 +56,20 @@
 </details>
 
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>💻 Estadísticas de mi perfil en GitHub</summary>
   <div>
-    <h2 align="center"> 📊 Github stats </h2>
+    <h2 align="center"> 📊 Github Estadísticas </h2>
       <br/>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianSolis96&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SebastianSolis96&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianSolis96&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
   </div>    
-</details>
-
-<details>
-  <summary>📈 Activity Graph</summary>
-  <br/>
-  <h2 align="center"> my current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
