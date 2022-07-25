@@ -61,11 +61,11 @@
     <h2 align="center"> 📊 Github Estadísticas </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianSolis96&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+          <a href="https://github.com/SebastianSolis96/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianSolis96&langs_count=1&theme=gruvbox&layout=compact&hide_border=true" alt="SebastianSolis96 :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github.com/SebastianSolis96/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SebastianSolis96&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianSolis96&theme=gruvbox&hide_border=true" />
           </a>
