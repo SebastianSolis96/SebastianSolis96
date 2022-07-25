@@ -62,7 +62,7 @@
       <br/>
         <p align="center">
           <a href="https://github.com/SebastianSolis96/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianSolis96&langs_count=1&theme=gruvbox&layout=compact&hide_border=true" alt="SebastianSolis96 :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianSolis96&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="SebastianSolis96 :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/SebastianSolis96/">
