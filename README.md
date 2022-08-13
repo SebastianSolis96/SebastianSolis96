@@ -2,8 +2,8 @@
   <h1 align="center">¡Hola <img width="35" src="https://github.com/SebastianSolis96/SebastianSolis96/blob/main/img/hi_gif.gif">, soy Sebastian!</h1>
 </div>
 
-<div align="center">
-  <a href="https://portfolio-sebascript.netlify.app">
+<div align="center" style="cursor: pointer">
+  <a href="https://portfolio-sebascript.netlify.app" target="_blank" >
     <img  src="https://github.com/SebastianSolis96/SebastianSolis96/blob/main/img/banner.svg" alt="banner" />
   </a>
 </div>
