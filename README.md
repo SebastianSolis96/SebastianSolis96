@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.sebascript.dev">
+  <a href="https://portfolio-sebascript.netlify.app">
     <img  src="https://github.com/SebastianSolis96/SebastianSolis96/blob/main/img/banner.svg" alt="banner" />
   </a>
 </div>
